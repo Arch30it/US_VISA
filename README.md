@@ -31,7 +31,6 @@ The model was trained using the following steps:
 
 3. **Prediction**:
    - The model outputs the predicted visa status (approved or denied) along with the probability score.
-   - 
 
 
    
