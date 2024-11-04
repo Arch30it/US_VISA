@@ -1,6 +1,6 @@
 # US_VISA_Approval_Prediction
 
-This project is a machine learning-based application for predicting visa approval status based on applicant and employer details. The app is built using Streamlit, and the model was trained using various feature engineering and preprocessing steps.
+The Visa Approval Prediction project is a machine learning application designed to predict the approval status of U.S. visa applications based on historical data. It leverages various applicant and employer attributes, such as job experience, job training requirements, employment type, and prevailing wages, to determine the likelihood of a visa application's success. The project is implemented as a user-friendly Streamlit app, which provides an interactive interface for users to enter applicant details and receive instant predictions.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
